@@ -12,6 +12,7 @@ Ready-to-use skill templates that can be adapted to any Kotlin test project.
 | 02 | [test-data](skills/02-test-data/SKILL.md) | Prepare test data: builders, fixtures, factories |
 | 03 | [failure-analysis](skills/03-failure-analysis/SKILL.md) | Analyze failed tests, suggest fixes |
 | 04 | [refactoring](skills/04-refactoring/SKILL.md) | Refactor tests: structure, readability, DRY |
+| 05 | [event-streaming](skills/05-event-streaming/SKILL.md) | Write and verify async event tests (Kafka, RabbitMQ) |
 
 ## Requirements
 
@@ -67,6 +68,8 @@ autotest-skills/
     │   └── SKILL.md
     └── 04-refactoring/
         └── SKILL.md
+    ├── 05-event-streaming/
+    │   └── SKILL.md
 ```
 
 ## Usage
@@ -78,6 +81,7 @@ After installation, invoke skills in Claude Code:
 /test-data
 /failure-analysis
 /refactoring
+/event-streaming
 ```
 
 ## License
