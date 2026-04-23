@@ -66,10 +66,10 @@ autotest-skills/
     │   └── SKILL.md
     ├── 03-failure-analysis/
     │   └── SKILL.md
-    └── 04-refactoring/
-        └── SKILL.md
-    ├── 05-event-streaming/
+    ├── 04-refactoring/
     │   └── SKILL.md
+    └── 05-event-streaming/
+        └── SKILL.md
 ```
 
 ## Usage
